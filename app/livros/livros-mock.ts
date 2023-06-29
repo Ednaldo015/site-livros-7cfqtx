@@ -4,7 +4,7 @@ export const LIVROS: Livro[]=
 [
   {
     id: 1,
-    name: 'Harry Potter e a Pedra Filosofal',
+    name: 'Nutricao Dietetica',
     type: 'Fantasia',
     description: 'aaaaaaa',
     year: 1997
